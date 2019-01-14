@@ -1,0 +1,8 @@
+.catkin_workspace
+.cproject
+.project
+.settings/
+bluefox2/
+build/
+devel/
+mpu6050_serial_to_imu/
